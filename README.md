@@ -2,11 +2,11 @@
 
 <!--- Alguns exemplos. Veja https://shields.io para outros escudos customizavéis. Convém incluir dependências, status do projeto e informações da licença aqui --->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/herlanassis/cplex-helloworld.md)
-![GitHub contributors](https://img.shields.io/github/contributors/herlanassis/cplex-helloworld.md)
-![GitHub stars](https://img.shields.io/github/stars/herlanassis/cplex-helloworld.md?style=social)
-![GitHub forks](https://img.shields.io/github/forks/herlanassis/cplex-helloworld.md?style=social)
-![GitHub issues](https://img.shields.io/github/issues-raw/herlanassis/cplex-helloworld.md?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/herlanassis/cplex-helloworld)
+![GitHub contributors](https://img.shields.io/github/contributors/herlanassis/cplex-helloworld)
+![GitHub stars](https://img.shields.io/github/stars/herlanassis/cplex-helloworld?style=social)
+![GitHub forks](https://img.shields.io/github/forks/herlanassis/cplex-helloworld?style=social)
+![GitHub issues](https://img.shields.io/github/issues-raw/herlanassis/cplex-helloworld?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/herlanassis?style=social)
 
 CPLEX-HELLO-WORLD é um(a) `utilitário` que permite a execução via `linha de comando` para `compilar um código em cpp`.
